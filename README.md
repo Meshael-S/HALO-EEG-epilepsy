@@ -68,7 +68,7 @@ Codes combine a class letter and a number, for example `C5` or `D1`. A trailing 
 
 ## Citation
 
-https://doi.org/10.5281/zenodo.24024329
+EEG data: https://zenodo.org/records/24024330, https://doi.org/10.5281/zenodo.24024330
 
 Alharbi N, Aldayel M, Alsenan S, Alyami R, Almowalad E, Alkethiry E. From Annotation to Prediction: Hospital-Grade Early Seizure Risk Prediction from Adult EEG. Diagnostics. 2026; 16(3):492. https://doi.org/10.3390/diagnostics16030492
 
